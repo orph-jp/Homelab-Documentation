@@ -101,6 +101,18 @@
             <mxPoint x="530" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VM1" vertex="1">
+          <mxGeometry height="30" width="50" x="540" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="LXC 1" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="593.2" as="geometry" />
+        </mxCell>
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VM2" vertex="1">
+          <mxGeometry height="30" width="50" x="540" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="SSH Client" vertex="1">
+          <mxGeometry height="30" width="80" x="390" y="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
