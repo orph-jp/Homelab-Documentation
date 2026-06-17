@@ -70,11 +70,11 @@
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-14" parent="1" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
           <mxGeometry height="18" width="140" x="260" y="582" as="geometry" />
         </mxCell>
-        <mxCell id="PM2nW5d5bkd0yUUsg2_K-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr0 (192.168.193.140/24)" vertex="1">
-          <mxGeometry height="30" width="170" x="244.10000000000002" y="512" as="geometry" />
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr0 (192.168.193.140/24,&lt;br&gt;VLAN: 1)" vertex="1">
+          <mxGeometry height="40" width="170" x="244.10000000000002" y="507" as="geometry" />
         </mxCell>
-        <mxCell id="PM2nW5d5bkd0yUUsg2_K-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr1" vertex="1">
-          <mxGeometry height="30" width="60" x="294.1" y="563.2" as="geometry" />
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr1 (VLAN: 8)" vertex="1">
+          <mxGeometry height="30" width="110" x="270.1" y="563.2" as="geometry" />
         </mxCell>
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Nic0" vertex="1">
           <mxGeometry height="30" width="50" x="195.20000000000002" y="580" as="geometry" />
@@ -112,6 +112,13 @@
         </mxCell>
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="SSH Client" vertex="1">
           <mxGeometry height="30" width="80" x="390" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-30" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="130" as="sourcePoint" />
+            <mxPoint x="310" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
