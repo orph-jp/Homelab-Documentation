@@ -135,8 +135,8 @@
             <mxPoint x="320" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kem1zRPGPsAIqGzyxt5z-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Tailscale SSH" vertex="1">
-          <mxGeometry height="30" width="100" x="170.2" y="460" as="geometry" />
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Tailscale (100.66.201.25)" vertex="1">
+          <mxGeometry height="30" width="160" x="130" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
