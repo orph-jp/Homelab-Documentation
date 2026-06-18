@@ -73,8 +73,8 @@
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr0 (192.168.193.140/24,&lt;br&gt;VLAN: 1)" vertex="1">
           <mxGeometry height="40" width="170" x="244.10000000000002" y="507" as="geometry" />
         </mxCell>
-        <mxCell id="PM2nW5d5bkd0yUUsg2_K-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr1 (VLAN: 8)" vertex="1">
-          <mxGeometry height="30" width="110" x="270.1" y="563.2" as="geometry" />
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="vmbr1 (192.168.1.2/24, VLAN: 8)" vertex="1">
+          <mxGeometry height="30" width="200" x="225.10000000000002" y="563.2" as="geometry" />
         </mxCell>
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Nic0" vertex="1">
           <mxGeometry height="30" width="50" x="195.20000000000002" y="580" as="geometry" />
@@ -119,6 +119,15 @@
             <mxPoint x="230" y="130" as="sourcePoint" />
             <mxPoint x="310" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="OPNsense" vertex="1">
+          <mxGeometry height="30" width="80" x="400" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="WAN: 192.168.193.105/24" vertex="1">
+          <mxGeometry height="30" width="160" x="350" y="598.2" as="geometry" />
+        </mxCell>
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="LAN: 192.168.1.1/24" vertex="1">
+          <mxGeometry height="30" width="130" x="370" y="623.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
