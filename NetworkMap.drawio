@@ -110,8 +110,8 @@
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VM2" vertex="1">
           <mxGeometry height="30" width="50" x="540" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="PM2nW5d5bkd0yUUsg2_K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="SSH Client" vertex="1">
-          <mxGeometry height="30" width="80" x="390" y="35" as="geometry" />
+        <mxCell id="PM2nW5d5bkd0yUUsg2_K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="SSH Client&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="90" x="390" y="40" as="geometry" />
         </mxCell>
         <mxCell id="PM2nW5d5bkd0yUUsg2_K-30" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -128,6 +128,15 @@
         </mxCell>
         <mxCell id="kem1zRPGPsAIqGzyxt5z-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="LAN: 192.168.1.1/24" vertex="1">
           <mxGeometry height="30" width="130" x="370" y="623.2" as="geometry" />
+        </mxCell>
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="530" as="sourcePoint" />
+            <mxPoint x="320" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kem1zRPGPsAIqGzyxt5z-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="tailscale SSH" vertex="1">
+          <mxGeometry height="30" width="90" x="175.2" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
